@@ -29,7 +29,7 @@ Perform all the commands as root user or sudo user.
 ```
 apt-get update
 apt install git 
-git clone https://github.com/jassi-devops/k8s-cluster-ubuntu.git
+git clone https://github.com/recruitsdevops/k8s-cluster-ubuntu.git
 ```
 #### Install Docker, Docker-engine, kubelet, Kubeadm, kubectl
 ```
