@@ -27,6 +27,7 @@ Perform all the commands as root user or sudo user.
 
 #### Clone the Repository on your Master and worker nodes
 ```
+apt-get update
 apt install git 
 git clone https://github.com/jassi-devops/k8s-cluster-ubuntu.git
 ```
